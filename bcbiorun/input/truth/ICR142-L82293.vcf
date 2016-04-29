@@ -1,0 +1,6 @@
+##fileformat=VCFv4.1
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	L82293
+5	96121570	.	CCAGT	C	.	PASS	.	GT	0/1
+12	54865016	.	C	T	.	PASS	.	GT	0/1
+22	40161341	.	GGA	G	.	PASS	.	GT	0/1

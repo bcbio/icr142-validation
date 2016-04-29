@@ -1,0 +1,4 @@
+##fileformat=VCFv4.1
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	L64304
+15	44903115	.	C	CAGGG	.	PASS	.	GT	0/1

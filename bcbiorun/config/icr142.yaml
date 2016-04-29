@@ -1,0 +1,2987 @@
+details:
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D102245.vcf
+    validate_regions: ../input/truth/ICR142-D102245-validate.bed
+    variant_regions: ../input/truth/ICR142-D102245-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D102245
+  files:
+  - ../input/fastqs/_EGAR00001342275_D102245_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342275_D102245_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D103457.vcf
+    validate_regions: ../input/truth/ICR142-D103457-validate.bed
+    variant_regions: ../input/truth/ICR142-D103457-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D103457
+  files:
+  - ../input/fastqs/_EGAR00001342276_D103457_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342276_D103457_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D107213.vcf
+    validate_regions: ../input/truth/ICR142-D107213-validate.bed
+    variant_regions: ../input/truth/ICR142-D107213-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D107213
+  files:
+  - ../input/fastqs/_EGAR00001342277_D107213_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342277_D107213_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D114755.vcf
+    validate_regions: ../input/truth/ICR142-D114755-validate.bed
+    variant_regions: ../input/truth/ICR142-D114755-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D114755
+  files:
+  - ../input/fastqs/_EGAR00001342278_D114755_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342278_D114755_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D115012.vcf
+    validate_regions: ../input/truth/ICR142-D115012-validate.bed
+    variant_regions: ../input/truth/ICR142-D115012-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D115012
+  files:
+  - ../input/fastqs/_EGAR00001342279_D115012_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342279_D115012_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D116138.vcf
+    validate_regions: ../input/truth/ICR142-D116138-validate.bed
+    variant_regions: ../input/truth/ICR142-D116138-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D116138
+  files:
+  - ../input/fastqs/_EGAR00001342280_D116138_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342280_D116138_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D116380.vcf
+    validate_regions: ../input/truth/ICR142-D116380-validate.bed
+    variant_regions: ../input/truth/ICR142-D116380-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D116380
+  files:
+  - ../input/fastqs/_EGAR00001342281_D116380_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342281_D116380_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D118107.vcf
+    validate_regions: ../input/truth/ICR142-D118107-validate.bed
+    variant_regions: ../input/truth/ICR142-D118107-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D118107
+  files:
+  - ../input/fastqs/_EGAR00001342282_D118107_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342282_D118107_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D118402.vcf
+    validate_regions: ../input/truth/ICR142-D118402-validate.bed
+    variant_regions: ../input/truth/ICR142-D118402-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D118402
+  files:
+  - ../input/fastqs/_EGAR00001342283_D118402_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342283_D118402_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-d119782.vcf
+    validate_regions: ../input/truth/ICR142-d119782-validate.bed
+    variant_regions: ../input/truth/ICR142-d119782-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: d119782
+  files:
+  - ../input/fastqs/_EGAR00001342284_d119782_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342284_d119782_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D119819.vcf
+    validate_regions: ../input/truth/ICR142-D119819-validate.bed
+    variant_regions: ../input/truth/ICR142-D119819-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D119819
+  files:
+  - ../input/fastqs/_EGAR00001342285_D119819_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342285_D119819_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D127567.vcf
+    validate_regions: ../input/truth/ICR142-D127567-validate.bed
+    variant_regions: ../input/truth/ICR142-D127567-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D127567
+  files:
+  - ../input/fastqs/_EGAR00001342286_D127567_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342286_D127567_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D129031.vcf
+    validate_regions: ../input/truth/ICR142-D129031-validate.bed
+    variant_regions: ../input/truth/ICR142-D129031-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D129031
+  files:
+  - ../input/fastqs/_EGAR00001342287_D129031_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342287_D129031_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D131336.vcf
+    validate_regions: ../input/truth/ICR142-D131336-validate.bed
+    variant_regions: ../input/truth/ICR142-D131336-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D131336
+  files:
+  - ../input/fastqs/_EGAR00001342288_D131336_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342288_D131336_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D31441.vcf
+    validate_regions: ../input/truth/ICR142-D31441-validate.bed
+    variant_regions: ../input/truth/ICR142-D31441-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D31441
+  files:
+  - ../input/fastqs/_EGAR00001342289_D31441_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342289_D31441_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D42548.vcf
+    validate_regions: ../input/truth/ICR142-D42548-validate.bed
+    variant_regions: ../input/truth/ICR142-D42548-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D42548
+  files:
+  - ../input/fastqs/_EGAR00001342290_D42548_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342290_D42548_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D43955.vcf
+    validate_regions: ../input/truth/ICR142-D43955-validate.bed
+    variant_regions: ../input/truth/ICR142-D43955-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D43955
+  files:
+  - ../input/fastqs/_EGAR00001342291_D43955_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342291_D43955_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D55764.vcf
+    validate_regions: ../input/truth/ICR142-D55764-validate.bed
+    variant_regions: ../input/truth/ICR142-D55764-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D55764
+  files:
+  - ../input/fastqs/_EGAR00001342292_D55764_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342292_D55764_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D56468.vcf
+    validate_regions: ../input/truth/ICR142-D56468-validate.bed
+    variant_regions: ../input/truth/ICR142-D56468-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D56468
+  files:
+  - ../input/fastqs/_EGAR00001342293_D56468_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342293_D56468_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D59259.vcf
+    validate_regions: ../input/truth/ICR142-D59259-validate.bed
+    variant_regions: ../input/truth/ICR142-D59259-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D59259
+  files:
+  - ../input/fastqs/_EGAR00001342294_D59259_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342294_D59259_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D59597.vcf
+    validate_regions: ../input/truth/ICR142-D59597-validate.bed
+    variant_regions: ../input/truth/ICR142-D59597-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D59597
+  files:
+  - ../input/fastqs/_EGAR00001342295_D59597_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342295_D59597_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D63963.vcf
+    validate_regions: ../input/truth/ICR142-D63963-validate.bed
+    variant_regions: ../input/truth/ICR142-D63963-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D63963
+  files:
+  - ../input/fastqs/_EGAR00001342296_D63963_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342296_D63963_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D64976.vcf
+    validate_regions: ../input/truth/ICR142-D64976-validate.bed
+    variant_regions: ../input/truth/ICR142-D64976-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D64976
+  files:
+  - ../input/fastqs/_EGAR00001342297_D64976_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342297_D64976_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D66874.vcf
+    validate_regions: ../input/truth/ICR142-D66874-validate.bed
+    variant_regions: ../input/truth/ICR142-D66874-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D66874
+  files:
+  - ../input/fastqs/_EGAR00001342298_D66874_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342298_D66874_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D68566.vcf
+    validate_regions: ../input/truth/ICR142-D68566-validate.bed
+    variant_regions: ../input/truth/ICR142-D68566-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D68566
+  files:
+  - ../input/fastqs/_EGAR00001342299_D68566_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342299_D68566_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D69066.vcf
+    validate_regions: ../input/truth/ICR142-D69066-validate.bed
+    variant_regions: ../input/truth/ICR142-D69066-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D69066
+  files:
+  - ../input/fastqs/_EGAR00001342300_D69066_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342300_D69066_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D69078.vcf
+    validate_regions: ../input/truth/ICR142-D69078-validate.bed
+    variant_regions: ../input/truth/ICR142-D69078-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D69078
+  files:
+  - ../input/fastqs/_EGAR00001342301_D69078_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342301_D69078_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D69367.vcf
+    validate_regions: ../input/truth/ICR142-D69367-validate.bed
+    variant_regions: ../input/truth/ICR142-D69367-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D69367
+  files:
+  - ../input/fastqs/_EGAR00001342302_D69367_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342302_D69367_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D77166.vcf
+    validate_regions: ../input/truth/ICR142-D77166-validate.bed
+    variant_regions: ../input/truth/ICR142-D77166-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D77166
+  files:
+  - ../input/fastqs/_EGAR00001342303_D77166_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342303_D77166_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D77197.vcf
+    validate_regions: ../input/truth/ICR142-D77197-validate.bed
+    variant_regions: ../input/truth/ICR142-D77197-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D77197
+  files:
+  - ../input/fastqs/_EGAR00001342304_D77197_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342304_D77197_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D77245.vcf
+    validate_regions: ../input/truth/ICR142-D77245-validate.bed
+    variant_regions: ../input/truth/ICR142-D77245-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D77245
+  files:
+  - ../input/fastqs/_EGAR00001342305_D77245_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342305_D77245_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D77356.vcf
+    validate_regions: ../input/truth/ICR142-D77356-validate.bed
+    variant_regions: ../input/truth/ICR142-D77356-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D77356
+  files:
+  - ../input/fastqs/_EGAR00001342306_D77356_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342306_D77356_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D77504.vcf
+    validate_regions: ../input/truth/ICR142-D77504-validate.bed
+    variant_regions: ../input/truth/ICR142-D77504-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D77504
+  files:
+  - ../input/fastqs/_EGAR00001342307_D77504_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342307_D77504_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D79198.vcf
+    validate_regions: ../input/truth/ICR142-D79198-validate.bed
+    variant_regions: ../input/truth/ICR142-D79198-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D79198
+  files:
+  - ../input/fastqs/_EGAR00001342308_D79198_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342308_D79198_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D81625.vcf
+    validate_regions: ../input/truth/ICR142-D81625-validate.bed
+    variant_regions: ../input/truth/ICR142-D81625-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D81625
+  files:
+  - ../input/fastqs/_EGAR00001342309_D81625_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342309_D81625_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D82111.vcf
+    validate_regions: ../input/truth/ICR142-D82111-validate.bed
+    variant_regions: ../input/truth/ICR142-D82111-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D82111
+  files:
+  - ../input/fastqs/_EGAR00001342310_D82111_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342310_D82111_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D85393.vcf
+    validate_regions: ../input/truth/ICR142-D85393-validate.bed
+    variant_regions: ../input/truth/ICR142-D85393-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D85393
+  files:
+  - ../input/fastqs/_EGAR00001342311_D85393_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342311_D85393_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D91936.vcf
+    validate_regions: ../input/truth/ICR142-D91936-validate.bed
+    variant_regions: ../input/truth/ICR142-D91936-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D91936
+  files:
+  - ../input/fastqs/_EGAR00001342312_D91936_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342312_D91936_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D93615.vcf
+    validate_regions: ../input/truth/ICR142-D93615-validate.bed
+    variant_regions: ../input/truth/ICR142-D93615-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D93615
+  files:
+  - ../input/fastqs/_EGAR00001342313_D93615_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342313_D93615_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-D98923.vcf
+    validate_regions: ../input/truth/ICR142-D98923-validate.bed
+    variant_regions: ../input/truth/ICR142-D98923-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: D98923
+  files:
+  - ../input/fastqs/_EGAR00001342314_D98923_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342314_D98923_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L101924.vcf
+    validate_regions: ../input/truth/ICR142-L101924-validate.bed
+    variant_regions: ../input/truth/ICR142-L101924-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L101924
+  files:
+  - ../input/fastqs/_EGAR00001342315_L101924_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342315_L101924_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L102521.vcf
+    validate_regions: ../input/truth/ICR142-L102521-validate.bed
+    variant_regions: ../input/truth/ICR142-L102521-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L102521
+  files:
+  - ../input/fastqs/_EGAR00001342316_L102521_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342316_L102521_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L102635.vcf
+    validate_regions: ../input/truth/ICR142-L102635-validate.bed
+    variant_regions: ../input/truth/ICR142-L102635-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L102635
+  files:
+  - ../input/fastqs/_EGAR00001342317_L102635_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342317_L102635_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L103448.vcf
+    validate_regions: ../input/truth/ICR142-L103448-validate.bed
+    variant_regions: ../input/truth/ICR142-L103448-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L103448
+  files:
+  - ../input/fastqs/_EGAR00001342318_L103448_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342318_L103448_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L104026.vcf
+    validate_regions: ../input/truth/ICR142-L104026-validate.bed
+    variant_regions: ../input/truth/ICR142-L104026-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L104026
+  files:
+  - ../input/fastqs/_EGAR00001342319_L104026_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342319_L104026_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L104701.vcf
+    validate_regions: ../input/truth/ICR142-L104701-validate.bed
+    variant_regions: ../input/truth/ICR142-L104701-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L104701
+  files:
+  - ../input/fastqs/_EGAR00001342320_L104701_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342320_L104701_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L105157.vcf
+    validate_regions: ../input/truth/ICR142-L105157-validate.bed
+    variant_regions: ../input/truth/ICR142-L105157-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L105157
+  files:
+  - ../input/fastqs/_EGAR00001342321_L105157_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342321_L105157_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L106404.vcf
+    validate_regions: ../input/truth/ICR142-L106404-validate.bed
+    variant_regions: ../input/truth/ICR142-L106404-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L106404
+  files:
+  - ../input/fastqs/_EGAR00001342322_L106404_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342322_L106404_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L106829.vcf
+    validate_regions: ../input/truth/ICR142-L106829-validate.bed
+    variant_regions: ../input/truth/ICR142-L106829-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L106829
+  files:
+  - ../input/fastqs/_EGAR00001342323_L106829_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342323_L106829_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L108671.vcf
+    validate_regions: ../input/truth/ICR142-L108671-validate.bed
+    variant_regions: ../input/truth/ICR142-L108671-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L108671
+  files:
+  - ../input/fastqs/_EGAR00001342324_L108671_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342324_L108671_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L108995.vcf
+    validate_regions: ../input/truth/ICR142-L108995-validate.bed
+    variant_regions: ../input/truth/ICR142-L108995-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L108995
+  files:
+  - ../input/fastqs/_EGAR00001342325_L108995_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342325_L108995_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L111351.vcf
+    validate_regions: ../input/truth/ICR142-L111351-validate.bed
+    variant_regions: ../input/truth/ICR142-L111351-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L111351
+  files:
+  - ../input/fastqs/_EGAR00001342326_L111351_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342326_L111351_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L112692.vcf
+    validate_regions: ../input/truth/ICR142-L112692-validate.bed
+    variant_regions: ../input/truth/ICR142-L112692-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L112692
+  files:
+  - ../input/fastqs/_EGAR00001342327_L112692_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342327_L112692_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L113692.vcf
+    validate_regions: ../input/truth/ICR142-L113692-validate.bed
+    variant_regions: ../input/truth/ICR142-L113692-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L113692
+  files:
+  - ../input/fastqs/_EGAR00001342328_L113692_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342328_L113692_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L115230.vcf
+    validate_regions: ../input/truth/ICR142-L115230-validate.bed
+    variant_regions: ../input/truth/ICR142-L115230-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L115230
+  files:
+  - ../input/fastqs/_EGAR00001342329_L115230_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342329_L115230_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L115658.vcf
+    validate_regions: ../input/truth/ICR142-L115658-validate.bed
+    variant_regions: ../input/truth/ICR142-L115658-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L115658
+  files:
+  - ../input/fastqs/_EGAR00001342330_L115658_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342330_L115658_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L121054.vcf
+    validate_regions: ../input/truth/ICR142-L121054-validate.bed
+    variant_regions: ../input/truth/ICR142-L121054-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L121054
+  files:
+  - ../input/fastqs/_EGAR00001342331_L121054_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342331_L121054_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L121102.vcf
+    validate_regions: ../input/truth/ICR142-L121102-validate.bed
+    variant_regions: ../input/truth/ICR142-L121102-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L121102
+  files:
+  - ../input/fastqs/_EGAR00001342332_L121102_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342332_L121102_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L124311.vcf
+    validate_regions: ../input/truth/ICR142-L124311-validate.bed
+    variant_regions: ../input/truth/ICR142-L124311-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L124311
+  files:
+  - ../input/fastqs/_EGAR00001342333_L124311_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342333_L124311_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L124503.vcf
+    validate_regions: ../input/truth/ICR142-L124503-validate.bed
+    variant_regions: ../input/truth/ICR142-L124503-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L124503
+  files:
+  - ../input/fastqs/_EGAR00001342334_L124503_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342334_L124503_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L125822.vcf
+    validate_regions: ../input/truth/ICR142-L125822-validate.bed
+    variant_regions: ../input/truth/ICR142-L125822-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L125822
+  files:
+  - ../input/fastqs/_EGAR00001342335_L125822_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342335_L125822_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L128126.vcf
+    validate_regions: ../input/truth/ICR142-L128126-validate.bed
+    variant_regions: ../input/truth/ICR142-L128126-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L128126
+  files:
+  - ../input/fastqs/_EGAR00001342336_L128126_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342336_L128126_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L128750.vcf
+    validate_regions: ../input/truth/ICR142-L128750-validate.bed
+    variant_regions: ../input/truth/ICR142-L128750-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L128750
+  files:
+  - ../input/fastqs/_EGAR00001342337_L128750_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342337_L128750_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L129228.vcf
+    validate_regions: ../input/truth/ICR142-L129228-validate.bed
+    variant_regions: ../input/truth/ICR142-L129228-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L129228
+  files:
+  - ../input/fastqs/_EGAR00001342338_L129228_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342338_L129228_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L130502.vcf
+    validate_regions: ../input/truth/ICR142-L130502-validate.bed
+    variant_regions: ../input/truth/ICR142-L130502-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L130502
+  files:
+  - ../input/fastqs/_EGAR00001342339_L130502_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342339_L130502_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L131040.vcf
+    validate_regions: ../input/truth/ICR142-L131040-validate.bed
+    variant_regions: ../input/truth/ICR142-L131040-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L131040
+  files:
+  - ../input/fastqs/_EGAR00001342340_L131040_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342340_L131040_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L132594.vcf
+    validate_regions: ../input/truth/ICR142-L132594-validate.bed
+    variant_regions: ../input/truth/ICR142-L132594-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L132594
+  files:
+  - ../input/fastqs/_EGAR00001342341_L132594_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342341_L132594_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L133044.vcf
+    validate_regions: ../input/truth/ICR142-L133044-validate.bed
+    variant_regions: ../input/truth/ICR142-L133044-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L133044
+  files:
+  - ../input/fastqs/_EGAR00001342342_L133044_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342342_L133044_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-l17193.vcf
+    validate_regions: ../input/truth/ICR142-l17193-validate.bed
+    variant_regions: ../input/truth/ICR142-l17193-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: l17193
+  files:
+  - ../input/fastqs/_EGAR00001342343_l17193_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342343_l17193_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L17783.vcf
+    validate_regions: ../input/truth/ICR142-L17783-validate.bed
+    variant_regions: ../input/truth/ICR142-L17783-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L17783
+  files:
+  - ../input/fastqs/_EGAR00001342344_L17783_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342344_L17783_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L2481.vcf
+    validate_regions: ../input/truth/ICR142-L2481-validate.bed
+    variant_regions: ../input/truth/ICR142-L2481-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L2481
+  files:
+  - ../input/fastqs/_EGAR00001342345_L2481_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342345_L2481_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L32567.vcf
+    validate_regions: ../input/truth/ICR142-L32567-validate.bed
+    variant_regions: ../input/truth/ICR142-L32567-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L32567
+  files:
+  - ../input/fastqs/_EGAR00001342346_L32567_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342346_L32567_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L41832.vcf
+    validate_regions: ../input/truth/ICR142-L41832-validate.bed
+    variant_regions: ../input/truth/ICR142-L41832-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L41832
+  files:
+  - ../input/fastqs/_EGAR00001342347_L41832_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342347_L41832_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L42245.vcf
+    validate_regions: ../input/truth/ICR142-L42245-validate.bed
+    variant_regions: ../input/truth/ICR142-L42245-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L42245
+  files:
+  - ../input/fastqs/_EGAR00001342348_L42245_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342348_L42245_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L45377.vcf
+    validate_regions: ../input/truth/ICR142-L45377-validate.bed
+    variant_regions: ../input/truth/ICR142-L45377-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L45377
+  files:
+  - ../input/fastqs/_EGAR00001342349_L45377_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342349_L45377_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L47646.vcf
+    validate_regions: ../input/truth/ICR142-L47646-validate.bed
+    variant_regions: ../input/truth/ICR142-L47646-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L47646
+  files:
+  - ../input/fastqs/_EGAR00001342350_L47646_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342350_L47646_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L48419.vcf
+    validate_regions: ../input/truth/ICR142-L48419-validate.bed
+    variant_regions: ../input/truth/ICR142-L48419-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L48419
+  files:
+  - ../input/fastqs/_EGAR00001342351_L48419_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342351_L48419_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L50435.vcf
+    validate_regions: ../input/truth/ICR142-L50435-validate.bed
+    variant_regions: ../input/truth/ICR142-L50435-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L50435
+  files:
+  - ../input/fastqs/_EGAR00001342352_L50435_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342352_L50435_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L50982.vcf
+    validate_regions: ../input/truth/ICR142-L50982-validate.bed
+    variant_regions: ../input/truth/ICR142-L50982-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L50982
+  files:
+  - ../input/fastqs/_EGAR00001342353_L50982_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342353_L50982_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L52068.vcf
+    validate_regions: ../input/truth/ICR142-L52068-validate.bed
+    variant_regions: ../input/truth/ICR142-L52068-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L52068
+  files:
+  - ../input/fastqs/_EGAR00001342354_L52068_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342354_L52068_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L52122.vcf
+    validate_regions: ../input/truth/ICR142-L52122-validate.bed
+    variant_regions: ../input/truth/ICR142-L52122-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L52122
+  files:
+  - ../input/fastqs/_EGAR00001342355_L52122_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342355_L52122_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L52470.vcf
+    validate_regions: ../input/truth/ICR142-L52470-validate.bed
+    variant_regions: ../input/truth/ICR142-L52470-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L52470
+  files:
+  - ../input/fastqs/_EGAR00001342356_L52470_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342356_L52470_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L52475.vcf
+    validate_regions: ../input/truth/ICR142-L52475-validate.bed
+    variant_regions: ../input/truth/ICR142-L52475-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L52475
+  files:
+  - ../input/fastqs/_EGAR00001342357_L52475_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342357_L52475_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L52477.vcf
+    validate_regions: ../input/truth/ICR142-L52477-validate.bed
+    variant_regions: ../input/truth/ICR142-L52477-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L52477
+  files:
+  - ../input/fastqs/_EGAR00001342358_L52477_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342358_L52477_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L52932.vcf
+    validate_regions: ../input/truth/ICR142-L52932-validate.bed
+    variant_regions: ../input/truth/ICR142-L52932-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L52932
+  files:
+  - ../input/fastqs/_EGAR00001342359_L52932_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342359_L52932_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L53053.vcf
+    validate_regions: ../input/truth/ICR142-L53053-validate.bed
+    variant_regions: ../input/truth/ICR142-L53053-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L53053
+  files:
+  - ../input/fastqs/_EGAR00001342360_L53053_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342360_L53053_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L53533.vcf
+    validate_regions: ../input/truth/ICR142-L53533-validate.bed
+    variant_regions: ../input/truth/ICR142-L53533-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L53533
+  files:
+  - ../input/fastqs/_EGAR00001342361_L53533_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342361_L53533_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L55688.vcf
+    validate_regions: ../input/truth/ICR142-L55688-validate.bed
+    variant_regions: ../input/truth/ICR142-L55688-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L55688
+  files:
+  - ../input/fastqs/_EGAR00001342362_L55688_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342362_L55688_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L56108.vcf
+    validate_regions: ../input/truth/ICR142-L56108-validate.bed
+    variant_regions: ../input/truth/ICR142-L56108-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L56108
+  files:
+  - ../input/fastqs/_EGAR00001342363_L56108_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342363_L56108_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L57299.vcf
+    validate_regions: ../input/truth/ICR142-L57299-validate.bed
+    variant_regions: ../input/truth/ICR142-L57299-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L57299
+  files:
+  - ../input/fastqs/_EGAR00001342364_L57299_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342364_L57299_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L59087.vcf
+    validate_regions: ../input/truth/ICR142-L59087-validate.bed
+    variant_regions: ../input/truth/ICR142-L59087-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L59087
+  files:
+  - ../input/fastqs/_EGAR00001342365_L59087_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342365_L59087_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L59932.vcf
+    validate_regions: ../input/truth/ICR142-L59932-validate.bed
+    variant_regions: ../input/truth/ICR142-L59932-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L59932
+  files:
+  - ../input/fastqs/_EGAR00001342366_L59932_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342366_L59932_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L60025.vcf
+    validate_regions: ../input/truth/ICR142-L60025-validate.bed
+    variant_regions: ../input/truth/ICR142-L60025-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L60025
+  files:
+  - ../input/fastqs/_EGAR00001342367_L60025_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342367_L60025_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L60250.vcf
+    validate_regions: ../input/truth/ICR142-L60250-validate.bed
+    variant_regions: ../input/truth/ICR142-L60250-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L60250
+  files:
+  - ../input/fastqs/_EGAR00001342368_L60250_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342368_L60250_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L60344.vcf
+    validate_regions: ../input/truth/ICR142-L60344-validate.bed
+    variant_regions: ../input/truth/ICR142-L60344-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L60344
+  files:
+  - ../input/fastqs/_EGAR00001342369_L60344_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342369_L60344_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L61923.vcf
+    validate_regions: ../input/truth/ICR142-L61923-validate.bed
+    variant_regions: ../input/truth/ICR142-L61923-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L61923
+  files:
+  - ../input/fastqs/_EGAR00001342370_L61923_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342370_L61923_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L63243.vcf
+    validate_regions: ../input/truth/ICR142-L63243-validate.bed
+    variant_regions: ../input/truth/ICR142-L63243-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L63243
+  files:
+  - ../input/fastqs/_EGAR00001342371_L63243_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342371_L63243_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L64304.vcf
+    validate_regions: ../input/truth/ICR142-L64304-validate.bed
+    variant_regions: ../input/truth/ICR142-L64304-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L64304
+  files:
+  - ../input/fastqs/_EGAR00001342372_L64304_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342372_L64304_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L64481.vcf
+    validate_regions: ../input/truth/ICR142-L64481-validate.bed
+    variant_regions: ../input/truth/ICR142-L64481-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L64481
+  files:
+  - ../input/fastqs/_EGAR00001342373_L64481_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342373_L64481_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L65315.vcf
+    validate_regions: ../input/truth/ICR142-L65315-validate.bed
+    variant_regions: ../input/truth/ICR142-L65315-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L65315
+  files:
+  - ../input/fastqs/_EGAR00001342374_L65315_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342374_L65315_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L65600.vcf
+    validate_regions: ../input/truth/ICR142-L65600-validate.bed
+    variant_regions: ../input/truth/ICR142-L65600-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L65600
+  files:
+  - ../input/fastqs/_EGAR00001342375_L65600_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342375_L65600_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L66742.vcf
+    validate_regions: ../input/truth/ICR142-L66742-validate.bed
+    variant_regions: ../input/truth/ICR142-L66742-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L66742
+  files:
+  - ../input/fastqs/_EGAR00001342376_L66742_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342376_L66742_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L66783.vcf
+    validate_regions: ../input/truth/ICR142-L66783-validate.bed
+    variant_regions: ../input/truth/ICR142-L66783-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L66783
+  files:
+  - ../input/fastqs/_EGAR00001342377_L66783_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342377_L66783_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L67282.vcf
+    validate_regions: ../input/truth/ICR142-L67282-validate.bed
+    variant_regions: ../input/truth/ICR142-L67282-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L67282
+  files:
+  - ../input/fastqs/_EGAR00001342378_L67282_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342378_L67282_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L67322.vcf
+    validate_regions: ../input/truth/ICR142-L67322-validate.bed
+    variant_regions: ../input/truth/ICR142-L67322-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L67322
+  files:
+  - ../input/fastqs/_EGAR00001342379_L67322_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342379_L67322_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L68203.vcf
+    validate_regions: ../input/truth/ICR142-L68203-validate.bed
+    variant_regions: ../input/truth/ICR142-L68203-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L68203
+  files:
+  - ../input/fastqs/_EGAR00001342380_L68203_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342380_L68203_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L73521.vcf
+    validate_regions: ../input/truth/ICR142-L73521-validate.bed
+    variant_regions: ../input/truth/ICR142-L73521-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L73521
+  files:
+  - ../input/fastqs/_EGAR00001342381_L73521_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342381_L73521_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L73989.vcf
+    validate_regions: ../input/truth/ICR142-L73989-validate.bed
+    variant_regions: ../input/truth/ICR142-L73989-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L73989
+  files:
+  - ../input/fastqs/_EGAR00001342382_L73989_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342382_L73989_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L74264.vcf
+    validate_regions: ../input/truth/ICR142-L74264-validate.bed
+    variant_regions: ../input/truth/ICR142-L74264-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L74264
+  files:
+  - ../input/fastqs/_EGAR00001342383_L74264_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342383_L74264_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L74809.vcf
+    validate_regions: ../input/truth/ICR142-L74809-validate.bed
+    variant_regions: ../input/truth/ICR142-L74809-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L74809
+  files:
+  - ../input/fastqs/_EGAR00001342384_L74809_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342384_L74809_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L75291.vcf
+    validate_regions: ../input/truth/ICR142-L75291-validate.bed
+    variant_regions: ../input/truth/ICR142-L75291-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L75291
+  files:
+  - ../input/fastqs/_EGAR00001342385_L75291_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342385_L75291_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L76315.vcf
+    validate_regions: ../input/truth/ICR142-L76315-validate.bed
+    variant_regions: ../input/truth/ICR142-L76315-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L76315
+  files:
+  - ../input/fastqs/_EGAR00001342386_L76315_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342386_L76315_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L75319.vcf
+    validate_regions: ../input/truth/ICR142-L75319-validate.bed
+    variant_regions: ../input/truth/ICR142-L75319-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L75319
+  files:
+  - ../input/fastqs/_EGAR00001342387_L75319_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342387_L75319_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L76738.vcf
+    validate_regions: ../input/truth/ICR142-L76738-validate.bed
+    variant_regions: ../input/truth/ICR142-L76738-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L76738
+  files:
+  - ../input/fastqs/_EGAR00001342388_L76738_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342388_L76738_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L80559.vcf
+    validate_regions: ../input/truth/ICR142-L80559-validate.bed
+    variant_regions: ../input/truth/ICR142-L80559-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L80559
+  files:
+  - ../input/fastqs/_EGAR00001342389_L80559_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342389_L80559_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L80585.vcf
+    validate_regions: ../input/truth/ICR142-L80585-validate.bed
+    variant_regions: ../input/truth/ICR142-L80585-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L80585
+  files:
+  - ../input/fastqs/_EGAR00001342390_L80585_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342390_L80585_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L81636.vcf
+    validate_regions: ../input/truth/ICR142-L81636-validate.bed
+    variant_regions: ../input/truth/ICR142-L81636-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L81636
+  files:
+  - ../input/fastqs/_EGAR00001342391_L81636_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342391_L81636_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L81899.vcf
+    validate_regions: ../input/truth/ICR142-L81899-validate.bed
+    variant_regions: ../input/truth/ICR142-L81899-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L81899
+  files:
+  - ../input/fastqs/_EGAR00001342392_L81899_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342392_L81899_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L82293.vcf
+    validate_regions: ../input/truth/ICR142-L82293-validate.bed
+    variant_regions: ../input/truth/ICR142-L82293-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L82293
+  files:
+  - ../input/fastqs/_EGAR00001342393_L82293_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342393_L82293_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L82294.vcf
+    validate_regions: ../input/truth/ICR142-L82294-validate.bed
+    variant_regions: ../input/truth/ICR142-L82294-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L82294
+  files:
+  - ../input/fastqs/_EGAR00001342394_L82294_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342394_L82294_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L82403.vcf
+    validate_regions: ../input/truth/ICR142-L82403-validate.bed
+    variant_regions: ../input/truth/ICR142-L82403-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L82403
+  files:
+  - ../input/fastqs/_EGAR00001342395_L82403_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342395_L82403_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L83825.vcf
+    validate_regions: ../input/truth/ICR142-L83825-validate.bed
+    variant_regions: ../input/truth/ICR142-L83825-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L83825
+  files:
+  - ../input/fastqs/_EGAR00001342396_L83825_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342396_L83825_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L84216.vcf
+    validate_regions: ../input/truth/ICR142-L84216-validate.bed
+    variant_regions: ../input/truth/ICR142-L84216-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L84216
+  files:
+  - ../input/fastqs/_EGAR00001342397_L84216_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342397_L84216_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L84221.vcf
+    validate_regions: ../input/truth/ICR142-L84221-validate.bed
+    variant_regions: ../input/truth/ICR142-L84221-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L84221
+  files:
+  - ../input/fastqs/_EGAR00001342398_L84221_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342398_L84221_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L85802.vcf
+    validate_regions: ../input/truth/ICR142-L85802-validate.bed
+    variant_regions: ../input/truth/ICR142-L85802-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L85802
+  files:
+  - ../input/fastqs/_EGAR00001342399_L85802_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342399_L85802_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L86025.vcf
+    validate_regions: ../input/truth/ICR142-L86025-validate.bed
+    variant_regions: ../input/truth/ICR142-L86025-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L86025
+  files:
+  - ../input/fastqs/_EGAR00001342400_L86025_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342400_L86025_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L86963.vcf
+    validate_regions: ../input/truth/ICR142-L86963-validate.bed
+    variant_regions: ../input/truth/ICR142-L86963-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L86963
+  files:
+  - ../input/fastqs/_EGAR00001342401_L86963_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342401_L86963_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L88625.vcf
+    validate_regions: ../input/truth/ICR142-L88625-validate.bed
+    variant_regions: ../input/truth/ICR142-L88625-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L88625
+  files:
+  - ../input/fastqs/_EGAR00001342402_L88625_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342402_L88625_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L91655.vcf
+    validate_regions: ../input/truth/ICR142-L91655-validate.bed
+    variant_regions: ../input/truth/ICR142-L91655-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L91655
+  files:
+  - ../input/fastqs/_EGAR00001342403_L91655_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342403_L91655_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L91951.vcf
+    validate_regions: ../input/truth/ICR142-L91951-validate.bed
+    variant_regions: ../input/truth/ICR142-L91951-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L91951
+  files:
+  - ../input/fastqs/_EGAR00001342404_L91951_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342404_L91951_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L92033.vcf
+    validate_regions: ../input/truth/ICR142-L92033-validate.bed
+    variant_regions: ../input/truth/ICR142-L92033-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L92033
+  files:
+  - ../input/fastqs/_EGAR00001342405_L92033_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342405_L92033_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L92388.vcf
+    validate_regions: ../input/truth/ICR142-L92388-validate.bed
+    variant_regions: ../input/truth/ICR142-L92388-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L92388
+  files:
+  - ../input/fastqs/_EGAR00001342406_L92388_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342406_L92388_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L93437.vcf
+    validate_regions: ../input/truth/ICR142-L93437-validate.bed
+    variant_regions: ../input/truth/ICR142-L93437-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L93437
+  files:
+  - ../input/fastqs/_EGAR00001342407_L93437_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342407_L93437_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L95795.vcf
+    validate_regions: ../input/truth/ICR142-L95795-validate.bed
+    variant_regions: ../input/truth/ICR142-L95795-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L95795
+  files:
+  - ../input/fastqs/_EGAR00001342408_L95795_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342408_L95795_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L95984.vcf
+    validate_regions: ../input/truth/ICR142-L95984-validate.bed
+    variant_regions: ../input/truth/ICR142-L95984-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L95984
+  files:
+  - ../input/fastqs/_EGAR00001342409_L95984_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342409_L95984_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L97409.vcf
+    validate_regions: ../input/truth/ICR142-L97409-validate.bed
+    variant_regions: ../input/truth/ICR142-L97409-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L97409
+  files:
+  - ../input/fastqs/_EGAR00001342410_L97409_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342410_L97409_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L97649.vcf
+    validate_regions: ../input/truth/ICR142-L97649-validate.bed
+    variant_regions: ../input/truth/ICR142-L97649-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L97649
+  files:
+  - ../input/fastqs/_EGAR00001342411_L97649_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342411_L97649_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L97754.vcf
+    validate_regions: ../input/truth/ICR142-L97754-validate.bed
+    variant_regions: ../input/truth/ICR142-L97754-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L97754
+  files:
+  - ../input/fastqs/_EGAR00001342412_L97754_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342412_L97754_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L97981.vcf
+    validate_regions: ../input/truth/ICR142-L97981-validate.bed
+    variant_regions: ../input/truth/ICR142-L97981-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L97981
+  files:
+  - ../input/fastqs/_EGAR00001342413_L97981_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342413_L97981_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-L98341.vcf
+    validate_regions: ../input/truth/ICR142-L98341-validate.bed
+    variant_regions: ../input/truth/ICR142-L98341-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: L98341
+  files:
+  - ../input/fastqs/_EGAR00001342414_L98341_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342414_L98341_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-T81593.vcf
+    validate_regions: ../input/truth/ICR142-T81593-validate.bed
+    variant_regions: ../input/truth/ICR142-T81593-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: T81593
+  files:
+  - ../input/fastqs/_EGAR00001342415_T81593_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342415_T81593_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+- algorithm:
+    aligner: bwa
+    mark_duplicates: true
+    realign: false
+    recalibrate: false
+    tools_off:
+    - gemini
+    validate: ../input/truth/ICR142-T81996.vcf
+    validate_regions: ../input/truth/ICR142-T81996-validate.bed
+    variant_regions: ../input/truth/ICR142-T81996-call.bed
+    variantcaller:
+    - freebayes
+    - gatk-haplotype
+    - vardict
+  analysis: variant2
+  description: T81996
+  files:
+  - ../input/fastqs/_EGAR00001342416_T81996_R1.fastq.gz
+  - ../input/fastqs/_EGAR00001342416_T81996_R2.fastq.gz
+  genome_build: GRCh37
+  metadata: {}
+fc_date: '2016-04-29'
+fc_name: icr142
+upload:
+  dir: ../final
