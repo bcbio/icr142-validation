@@ -1,6 +1,8 @@
 details:
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -22,6 +24,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -43,6 +47,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -64,6 +70,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -85,6 +93,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -106,6 +116,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -127,6 +139,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -148,6 +162,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -169,6 +185,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -190,6 +208,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -211,6 +231,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -232,6 +254,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -253,6 +277,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -274,6 +300,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -295,6 +323,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -316,6 +346,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -337,6 +369,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -358,6 +392,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -379,6 +415,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -400,6 +438,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -421,6 +461,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -442,6 +484,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -463,6 +507,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -484,6 +530,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -505,6 +553,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -526,6 +576,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -547,6 +599,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -568,6 +622,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -589,6 +645,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -610,6 +668,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -631,6 +691,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -652,6 +714,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -673,6 +737,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -694,6 +760,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -715,6 +783,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -736,6 +806,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -757,6 +829,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -778,6 +852,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -799,6 +875,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -820,6 +898,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -841,6 +921,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -862,6 +944,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -883,6 +967,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -904,6 +990,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -925,6 +1013,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -946,6 +1036,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -967,6 +1059,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -988,6 +1082,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1009,6 +1105,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1030,6 +1128,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1051,6 +1151,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1072,6 +1174,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1093,6 +1197,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1114,6 +1220,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1135,6 +1243,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1156,6 +1266,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1177,6 +1289,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1198,6 +1312,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1219,6 +1335,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1240,6 +1358,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1261,6 +1381,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1282,6 +1404,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1303,6 +1427,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1324,6 +1450,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1345,6 +1473,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1366,6 +1496,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1387,6 +1519,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1408,6 +1542,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1429,6 +1565,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1450,6 +1588,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1471,6 +1611,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1492,6 +1634,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1513,6 +1657,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1534,6 +1680,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1555,6 +1703,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1576,6 +1726,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1597,6 +1749,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1618,6 +1772,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1639,6 +1795,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1660,6 +1818,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1681,6 +1841,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1702,6 +1864,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1723,6 +1887,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1744,6 +1910,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1765,6 +1933,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1786,6 +1956,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1807,6 +1979,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1828,6 +2002,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1849,6 +2025,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1870,6 +2048,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1891,6 +2071,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1912,6 +2094,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1933,6 +2117,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1954,6 +2140,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1975,6 +2163,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -1996,6 +2186,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2017,6 +2209,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2038,6 +2232,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2059,6 +2255,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2080,6 +2278,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2101,6 +2301,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2122,6 +2324,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2143,6 +2347,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2164,6 +2370,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2185,6 +2393,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2206,6 +2416,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2227,6 +2439,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2248,6 +2462,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2269,6 +2485,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2290,6 +2508,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2311,6 +2531,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2332,6 +2554,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2353,6 +2577,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2374,6 +2600,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2395,6 +2623,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2416,6 +2646,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2437,6 +2669,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2458,6 +2692,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2479,6 +2715,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2500,6 +2738,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2521,6 +2761,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2542,6 +2784,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2563,6 +2807,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2584,6 +2830,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2605,6 +2853,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2626,6 +2876,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2647,6 +2899,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2668,6 +2922,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2689,6 +2945,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2710,6 +2968,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2731,6 +2991,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2752,6 +3014,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2773,6 +3037,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2794,6 +3060,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2815,6 +3083,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2836,6 +3106,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2857,6 +3129,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2878,6 +3152,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2899,6 +3175,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2920,6 +3198,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2941,6 +3221,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false
@@ -2962,6 +3244,8 @@ details:
   metadata: {}
 - algorithm:
     aligner: bwa
+    ensemble:
+      numpass: 2
     mark_duplicates: true
     realign: false
     recalibrate: false

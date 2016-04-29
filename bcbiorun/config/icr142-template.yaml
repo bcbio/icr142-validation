@@ -8,4 +8,6 @@ details:
       recalibrate: false
       realign: false
       variantcaller: [freebayes, gatk-haplotype, vardict]
+      ensemble:
+        numpass: 2
       tools_off: [gemini]

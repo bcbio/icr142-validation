@@ -33,7 +33,9 @@ validation sets to run an analysis with bcbio:
 # Results
 
 Validation using bwa-mem and 3 variant callers (GATK HaplotypeCaller, FreeBayes
-and VarDict):
+and VarDict), including ensemble regions with calls in 2 of our 3 or 3 out of 3
+callers. The majority of false positives are present in at least 2 callers, and
+many in all 3:
 
 ![ICR142 validation](results/icr142-summary.png)
 
