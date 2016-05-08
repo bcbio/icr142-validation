@@ -1,22 +1,28 @@
 sample,caller,vtype,metric,value
-ICR142,ensemble (all callers),Indels,fn,14
-ICR142,ensemble (all callers),Indels,fp,16
-ICR142,ensemble (all callers),Indels,tp,253
-ICR142,ensemble (all callers),SNPs,fn,0
-ICR142,ensemble (all callers),SNPs,fp,10
-ICR142,ensemble (all callers),SNPs,tp,123
-ICR142,ensemble (2 out of 3 callers),Indels,fn,7
-ICR142,ensemble (2 out of 3 callers),Indels,fp,35
-ICR142,ensemble (2 out of 3 callers),Indels,tp,261
-ICR142,ensemble (2 out of 3 callers),SNPs,fn,0
-ICR142,ensemble (2 out of 3 callers),SNPs,fp,25
-ICR142,ensemble (2 out of 3 callers),SNPs,tp,123
+ICR142,ensemble (3 callers),Indels,fn,14
+ICR142,ensemble (3 callers),Indels,fp,16
+ICR142,ensemble (3 callers),Indels,tp,253
+ICR142,ensemble (3 callers),SNPs,fn,0
+ICR142,ensemble (3 callers),SNPs,fp,10
+ICR142,ensemble (3 callers),SNPs,tp,123
+ICR142,ensemble (2 callers),Indels,fn,7
+ICR142,ensemble (2 callers),Indels,fp,35
+ICR142,ensemble (2 callers),Indels,tp,261
+ICR142,ensemble (2 callers),SNPs,fn,0
+ICR142,ensemble (2 callers),SNPs,fp,25
+ICR142,ensemble (2 callers),SNPs,tp,123
 ICR142,freebayes,Indels,fn,12
 ICR142,freebayes,Indels,fp,32
 ICR142,freebayes,Indels,tp,255
 ICR142,freebayes,SNPs,fn,0
 ICR142,freebayes,SNPs,fp,33
 ICR142,freebayes,SNPs,tp,123
+ICR142,platypus,Indels,fn,19
+ICR142,platypus,Indels,fp,25
+ICR142,platypus,Indels,tp,249
+ICR142,platypus,SNPs,fn,1
+ICR142,platypus,SNPs,fp,23
+ICR142,platypus,SNPs,tp,122
 ICR142,gatk-haplotype,Indels,fn,7
 ICR142,gatk-haplotype,Indels,fp,48
 ICR142,gatk-haplotype,Indels,tp,261
